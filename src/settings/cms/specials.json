@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Niçoise Salad",
+    "image": "https://jumanji.uz/images/product/46_s.jpg?1505814124",
+    "price": 10,
+    "description": "A famous French salad with crispy lettuce, peppers, olives, and our Chicago-style feta cheese, garnished with crunchy garlic and rosemary croutons."
+  },
+  {
+    "id": 2,
+    "title": "Tuna Salad",
+    "image": "https://jumanji.uz/images/product/55_s.jpg?1505814254",
+    "price": 15,
+    "description": "A fresh and flavorful salad with tuna, fresh vegetables, and a savory dressing, perfect for a light yet filling meal."
+  },
+  {
+    "id": 3,
+    "title": "Spicy Beef Ribs",
+    "image": "https://jumanji.uz/images/product/440_s.jpg?1619681572",
+    "price": 21.50,
+    "description": "A classic recipe from grandma's cookbook, with perfectly seasoned beef ribs cooked to perfection. Tender and full of flavor."
+  },
+  {
+    "id": 4,
+    "title": "Vegetable Fried Rice",
+    "image": "https://jumanji.uz/images/product/184_s.jpg?1505889442",
+    "price": 4.99,
+    "description": "A delicious and aromatic dish made with stir-fried rice, mixed vegetables, and a savory seasoning. A perfect side or light meal."
+  },
+  {
+    "id": 5,
+    "title": "Berry Tiramisu",
+    "image": "https://jumanji.uz/images/product/212_s.jpg?1580192361",
+    "price": 4,
+    "description": "A sweet and indulgent dessert with layers of berries and the classic creamy tiramisu filling. A twist on the traditional favorite."
+  },
+  {
+    "id": 6,
+    "title": "Orange-Coffee Cheesecake",
+    "image": "https://jumanji.uz/images/product/216_s.jpg?1572446685",
+    "price": 4,
+    "description": "A unique cheesecake with a rich orange and coffee flavor, offering a refreshing and indulgent twist on the classic dessert."
+  },
+  {
+    "id": 7,
+    "title": "Grilled Fish with Vegetables",
+    "image": "https://jumanji.uz/images/product/383_s.jpg?1505805280",
+    "price": 17,
+    "description": "Grilled fish served with a mix of perfectly cooked vegetables. A healthy and flavorful option for seafood lovers."
+  },
+  {
+    "id": 8,
+    "title": "Tuna Sushi",
+    "image": "https://jumanji.uz/images/product/294_s.jpg?1720768519",
+    "price": 55,
+    "description": "Fresh tuna served as sushi with perfectly seasoned rice and a touch of wasabi, bringing an authentic taste of Japan to your table."
+  }
+]

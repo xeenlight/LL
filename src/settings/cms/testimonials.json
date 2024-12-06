@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "rating": 5,
+    "name": "Oliver Smith",
+    "review": "A wonderful café with a cozy atmosphere. The service is excellent, and the food is always fresh and tasty. Highly recommended!",
+    "image": "https://i.pinimg.com/736x/23/0a/bc/230abc7583dd5c38af6d915b482179c0.jpg"
+  },
+  {
+    "id": 2,
+    "rating": 5,
+    "name": "James Johnson",
+    "review": "I absolutely love the interior of Little Lemon; it creates a warm and inviting vibe. A perfect spot for a relaxed lunch with friends.",
+    "image": "https://i.pinimg.com/736x/7a/4d/13/7a4d13afd4b770ee3947685aa269dcd2.jpg"
+  },
+  {
+    "id": 3,
+    "rating": 5,
+    "name": "Lily Williams",
+    "review": "The service is top-notch, and the menu has a great variety of dishes. Their lemonade is especially refreshing and delicious!",
+    "image": "https://i.pinimg.com/736x/1f/53/df/1f53df55b0939dd72621a1c9b432288d.jpg"
+  },
+  {
+    "id": 4,
+    "rating": 5,
+    "name": "Ethan Brown",
+    "review": "It's always comfortable and delicious here! A lovely place to meet up with friends, and the staff is always friendly.",
+    "image": "https://i.pinimg.com/736x/80/63/de/8063def436e938e9d04bb1a2b61aca75.jpg"
+  }
+]
