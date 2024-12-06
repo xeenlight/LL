@@ -35,7 +35,7 @@ This application was created as part of the **Meta Front-End Developer Certifica
 
 ```bash
 # Clone the repository
-git clone https://github.com/jayantasamaddar/little-lemon-meta-frontend-capstone.git project-folder
+git clone https://github.com/xeenlight/LL.git
 
 # Install required dependencies
 npm install
