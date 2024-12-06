@@ -1,6 +1,9 @@
 Sure! Here's a reworked version of your text, modified to retain the core concepts and structure while avoiding direct copying:
 
 ---
+# Table of Contents
+
+## Web Vercel https://littlelemon-zeta.vercel.app/
 
 # Table of Contents
 
@@ -97,16 +100,5 @@ Testing was implemented using React Testing Library, Jest, and Jestdom, all inte
 
 ---
 
-# Future Improvements
-
-Some ideas for future updates include:
-
-- Implementing **Context API** and **`useReducer`** for managing complex form states and multi-step forms. This approach is particularly useful for features such as OTP validation.
-- Adding a `ThemeProvider` to support dark/light theme toggling throughout the app.
-
----
 
 This revised version preserves the main structure and functionality of the original project while rephrasing key sections to avoid plagiarism.
-# Honour Code
-
-This demo project is solely done by me, Jayanta Samaddar. You can contact me on **[GitHub](https://www.github.com/jayantasamaddar)** for interesting projects to work on.
