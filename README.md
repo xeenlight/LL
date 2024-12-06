@@ -100,5 +100,3 @@ Testing was implemented using React Testing Library, Jest, and Jestdom, all inte
 
 ---
 
-
-This revised version preserves the main structure and functionality of the original project while rephrasing key sections to avoid plagiarism.
